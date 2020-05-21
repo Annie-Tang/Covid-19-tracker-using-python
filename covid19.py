@@ -1,6 +1,6 @@
 # Python Final Project
 # covid19.py
-# Author: Zihan Tang
+# Author: Annis
 # scraping USA coronavirus cases of every state
 
 import requests
