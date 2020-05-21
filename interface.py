@@ -1,6 +1,6 @@
 # Python Final Project
 # interface.py
-# Author: Zihan Tang
+# Author: Annis
 # GUI interface to display Covid-19 rank, news, and GPS cases
 
 from tkinter import *
