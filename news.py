@@ -1,6 +1,6 @@
 # Python Final Project
 # news.py
-# Author: Zihan Tang
+# Author: Annis Tang
 # scraping CDC latest news of Covid-19
 
 import requests
